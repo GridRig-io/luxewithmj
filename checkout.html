@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Checkout | Luxe with MJ</title>
+<link rel="icon" href="assets/logo.jpeg"><link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Great+Vibes&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet"></head><body>
+<header><a class="brand" href="shop.html"><img src="assets/logo.jpeg" alt="MJ"><b class="script gold">Luxe with MJ</b></a><nav><a class="hide" href="shop.html#shop">Shop</a><a class="hide" href="shop.html#why">Why MJ</a><a class="hide" href="shop.html#love">Reviews</a><button class="cartbtn" onclick="location.href='shop.html'">🛒 CART (<span class="cc">0</span>)</button></nav></header>
+<div class="checkout"><form onsubmit="order(event)"><h1 class="serif" style="font-size:2.6rem">Review &amp; <span class="script gold">send</span></h1>
+<p class="note">No payment on this site. Send your receipt to MJ on WhatsApp. She confirms your wig and delivery fee, then sends her account details.</p>
+<div class="two"><label>Full name<input name="name" required></label><label>Phone / WhatsApp<input name="phone" type="tel" required></label></div>
+<label>Delivery address<input name="addr" required></label><label>City / State<input name="city" required></label>
+<label>Order note<textarea name="note" rows="2" placeholder="Anything MJ should know…"></textarea></label>
+<button class="btn" type="submit">Send receipt on WhatsApp</button></form>
+<div class="summary"><h3 class="serif" style="font-size:1.8rem;margin-bottom:10px">Order summary</h3><div id="osum"></div><p style="font-size:.72rem;opacity:.6;margin-top:10px">Delivery fee and payment details are confirmed by MJ.</p></div></div>
+<script src="script.js"></script>
+<script>document.getElementById('drawer')||0</script></body></html>
