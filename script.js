@@ -9,13 +9,16 @@ const PRODUCTS=[
 {id:1, img:'p1.jpg', cat:'Bone Straight',name:'16" Bone Straight Wig',len:16,closure:'2x6',price:195000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:2, img:'p2.jpg', cat:'Bone Straight',name:'16" Bone Straight Wig',len:16,closure:'5x5',price:215000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:3, img:'p3.jpg', cat:'Bone Straight',name:'24" Bone Straight Wig',len:24,closure:'2x6',price:315000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
-{id:4, img:'p4.jpg', cat:'Bone Straight',name:'14" Bone Straight Wig',len:14,closure:'2x6',price:170000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
-{id:5, img:'p5.jpg', cat:'Bone Straight',name:'14" Bone Straight Wig',len:14,closure:'5x5',price:185000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
+{id:4, img:'p4.jpg', cat:'Bone Straight',name:'14" Bone Straight Wig',len:14,closure:'2x6',price:185000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
+{id:5, img:'p5.jpg', cat:'Bone Straight',name:'14" Bone Straight Wig',len:14,closure:'5x5',price:195000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:6, img:'p6.jpg', cat:'Bone Straight',name:'24" Bone Straight Wig',len:24,closure:'5x5',price:325000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:7, img:'p7.jpg', cat:'Bone Straight',name:'22" Bone Straight Wig',len:22,closure:'2x6',price:280000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:8, img:'p8.jpg', cat:'Bone Straight',name:'22" Bone Straight Wig',len:22,closure:'5x5',price:305000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:9, img:'p9.jpg', cat:'Bone Straight',name:'10" Bone Straight Wig',len:10,closure:'5x5',price:155000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 {id:10,img:'p10.jpg',cat:'Bone Straight',name:'10" Bone Straight Wig',len:10,closure:'2x6',price:130000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
+{id:11,img:'p11.jpg',cat:'Pixie Curls',name:'30" Pixie Curl Wig',len:30,closure:'5x5',price:720000,texture:'Pixie Curl (silk strands)',color:'Caramel Brown',parting:'Middle part',grams:350,grade:'SDD'},
+{id:12,img:'p12.jpg',cat:'Pixie Curls',name:'20" Pixie Curl Wig',len:20,closure:'5x5',price:254000,texture:'Pixie Curl (silk strands)',color:'Natural black',parting:'Middle part',grams:250,grade:'SDD'},
+{id:13,img:'p13.jpg',cat:'Bone Straight',name:'20" Bone Straight Wig',len:20,closure:'5x5',price:265000,texture:'Bone straight (silk strands)',color:'Natural black',parting:'Middle part',grams:200,grade:'SDD'},
 /* ← add new products above this line */
 ];
 const WA='2349136339959'; // MJ's WhatsApp number (234 + number without the leading 0)
